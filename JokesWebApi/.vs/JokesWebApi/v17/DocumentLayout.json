@@ -1,0 +1,399 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|c:\\users\\deyan\\source\\repos\\mvc projects\\jokeswebapi\\jokesweb\\views\\jokes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|solutionrelative:jokesweb\\views\\jokes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|c:\\users\\deyan\\source\\repos\\mvc projects\\jokeswebapi\\jokesweb\\models\\joke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|solutionrelative:jokesweb\\models\\joke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|c:\\users\\deyan\\source\\repos\\mvc projects\\jokeswebapi\\jokesweb\\views\\jokes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|solutionrelative:jokesweb\\views\\jokes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|c:\\users\\deyan\\source\\repos\\mvc projects\\jokeswebapi\\jokesweb\\controllers\\jokescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|solutionrelative:jokesweb\\controllers\\jokescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|c:\\users\\deyan\\source\\repos\\mvc projects\\jokeswebapi\\jokesweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|solutionrelative:jokesweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Data\\Migrations\\20250922085830_AddJokesAuthorProp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JokesWeb\\Data\\Migrations\\20250922085830_AddJokesAuthorProp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|c:\\users\\deyan\\source\\repos\\mvc projects\\jokeswebapi\\jokesweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|solutionrelative:jokesweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|c:\\users\\deyan\\source\\repos\\mvc projects\\jokeswebapi\\jokesweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|solutionrelative:jokesweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|c:\\users\\deyan\\source\\repos\\mvc projects\\jokeswebapi\\jokesweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|solutionrelative:jokesweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|c:\\users\\deyan\\source\\repos\\mvc projects\\jokeswebapi\\jokesweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|solutionrelative:jokesweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|c:\\users\\deyan\\source\\repos\\mvc projects\\jokeswebapi\\jokesweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|solutionrelative:jokesweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|c:\\users\\deyan\\source\\repos\\mvc projects\\jokeswebapi\\jokesweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|solutionrelative:jokesweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|c:\\users\\deyan\\source\\repos\\mvc projects\\jokeswebapi\\jokesweb\\views\\jokes\\showsearchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|solutionrelative:jokesweb\\views\\jokes\\showsearchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|c:\\users\\deyan\\source\\repos\\mvc projects\\jokeswebapi\\jokesweb\\views\\jokes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|solutionrelative:jokesweb\\views\\jokes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|c:\\users\\deyan\\source\\repos\\mvc projects\\jokeswebapi\\jokesweb\\views\\jokes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|solutionrelative:jokesweb\\views\\jokes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|c:\\users\\deyan\\source\\repos\\mvc projects\\jokeswebapi\\jokesweb\\views\\jokes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|solutionrelative:jokesweb\\views\\jokes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|c:\\users\\deyan\\source\\repos\\mvc projects\\jokeswebapi\\jokesweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|solutionrelative:jokesweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|c:\\users\\deyan\\source\\repos\\mvc projects\\jokeswebapi\\jokesweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|solutionrelative:jokesweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|c:\\users\\deyan\\source\\repos\\mvc projects\\jokeswebapi\\jokesweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5C37A970-BA35-44F9-86B4-74B86DC644AF}|JokesWeb\\JokesWeb.csproj|solutionrelative:jokesweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{da1e233c-cfa8-5021-b06c-abc3d02f44e8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Joke.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Models\\Joke.cs",
+              "RelativeDocumentMoniker": "JokesWeb\\Models\\Joke.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Models\\Joke.cs",
+              "RelativeToolTip": "JokesWeb\\Models\\Joke.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T06:25:52.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Views\\Jokes\\Index.cshtml",
+              "RelativeDocumentMoniker": "JokesWeb\\Views\\Jokes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Views\\Jokes\\Index.cshtml",
+              "RelativeToolTip": "JokesWeb\\Views\\Jokes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T08:23:43.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JokesController.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Controllers\\JokesController.cs",
+              "RelativeDocumentMoniker": "JokesWeb\\Controllers\\JokesController.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Controllers\\JokesController.cs",
+              "RelativeToolTip": "JokesWeb\\Controllers\\JokesController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwE0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:59:00.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Views\\Jokes\\Create.cshtml",
+              "RelativeDocumentMoniker": "JokesWeb\\Views\\Jokes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Views\\Jokes\\Create.cshtml",
+              "RelativeToolTip": "JokesWeb\\Views\\Jokes\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T08:45:15.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "JokesWeb\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "JokesWeb\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T08:42:33.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "JokesWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "JokesWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T08:45:15.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250922085830_AddJokesAuthorProp.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Data\\Migrations\\20250922085830_AddJokesAuthorProp.cs",
+              "RelativeDocumentMoniker": "JokesWeb\\Data\\Migrations\\20250922085830_AddJokesAuthorProp.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Data\\Migrations\\20250922085830_AddJokesAuthorProp.cs",
+              "RelativeToolTip": "JokesWeb\\Data\\Migrations\\20250922085830_AddJokesAuthorProp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T08:58:30.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "JokesWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "JokesWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T08:45:15.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "JokesWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "JokesWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T08:41:27.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShowSearchForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Views\\Jokes\\ShowSearchForm.cshtml",
+              "RelativeDocumentMoniker": "JokesWeb\\Views\\Jokes\\ShowSearchForm.cshtml",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Views\\Jokes\\ShowSearchForm.cshtml",
+              "RelativeToolTip": "JokesWeb\\Views\\Jokes\\ShowSearchForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T07:54:25.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Views\\Jokes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "JokesWeb\\Views\\Jokes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Views\\Jokes\\Edit.cshtml",
+              "RelativeToolTip": "JokesWeb\\Views\\Jokes\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T08:39:09.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Views\\Jokes\\Details.cshtml",
+              "RelativeDocumentMoniker": "JokesWeb\\Views\\Jokes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Views\\Jokes\\Details.cshtml",
+              "RelativeToolTip": "JokesWeb\\Views\\Jokes\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T08:43:13.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "JokesWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "JokesWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T12:54:01.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "JokesWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "JokesWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T08:44:41.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "JokesWeb\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "JokesWeb\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T08:44:44.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Views\\Jokes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "JokesWeb\\Views\\Jokes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Views\\Jokes\\Delete.cshtml",
+              "RelativeToolTip": "JokesWeb\\Views\\Jokes\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T08:43:10.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "JokesWeb\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "JokesWeb\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T08:42:53.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "JokesWeb\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "JokesWeb\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-22T08:33:55.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "JokesWeb\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Deyan\\source\\repos\\MVC Projects\\JokesWebApi\\JokesWeb\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "JokesWeb\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-22T08:34:05.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
